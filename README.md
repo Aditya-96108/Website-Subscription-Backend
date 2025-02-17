@@ -52,7 +52,7 @@ JWT_SECRET=your_jwt_secret
 ```
 4️⃣ Run the Application
 ```
-npm start
+npm run dev
 ```
 🔥 API Endpoints
 Method	Endpoint	Description
